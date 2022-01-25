@@ -1,5 +1,5 @@
 - Hi, I’m @nathanlieu13 aka Nate
-- I’m interested in mechanical keyboards and computer languages
+- I’m interested in mechanical keyboards retro games
 - I’m currently learning Java and C+
 
 <!---
