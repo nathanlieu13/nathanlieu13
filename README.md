@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nathanlieu13 aka Nate
-- 👀 I’m interested in mechanical keyboards and computer languages
-- 🌱 I’m currently learning Java and C+
-
+- Hi, I’m @nathanlieu13 aka Nate
+- I’m interested in mechanical keyboards and computer languages
+- I’m currently learning Java and C+
 
 <!---
 nathanlieu13/nathanlieu13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
